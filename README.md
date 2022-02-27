@@ -2,4 +2,4 @@
 - 📫 How to reach me Discord: Funkel#0223
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Funkel)
